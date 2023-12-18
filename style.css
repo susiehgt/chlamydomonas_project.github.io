@@ -1,0 +1,54 @@
+header {
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    background-image: url(https://images.fineartamerica.com/images-medium-large-5/3-chlamydomonas-sem-aaron-j-bell.jpg);
+    background-position: center;
+    border-radius: 50px;
+    font-family: 'Lato', sans-serif;
+    font-size: large;
+    color: white;
+}
+
+header h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 200%;
+    text-align: center;
+}
+
+/*nav*/
+
+nav {
+    background-color:seagreen;
+    border-radius: 50px;
+    font-size: 150%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+li {
+    text-decoration: none;
+    display: inline-block;
+    align-content: center;
+    font-family: 'Lato', sans-serif;
+    padding: 10px;
+    color: white;
+}
+
+/*javascript*/
+
+#cy {
+    height: 50%;
+    width: 90%;
+    position:absolute;
+    background-color:seagreen;
+    border-radius: 50px;
+    margin-left: 70px;
+}
